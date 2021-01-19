@@ -1,2 +1,2 @@
 # Ark
-A javascript package that bundles all necessary functionality for both frontend and backend into optimised, readable and simple functions. Backend modules usually improved via C++ add-ons.
+A fast and scalable high level language that provides frontend and backend capabilities simultaneously with an emphasis on code readability.
